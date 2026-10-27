@@ -4,6 +4,8 @@ Here's a favorite game, played with nothing more than two friends using simple h
 
 The game has 1 of 3 possible outcomes, a win, draw, or loss. The win or loss is based on which item is selected<sup>2</sup>, as each item has the ability to beat, be beaten, or force a draw based on the following rules, rock crushes sissors, sissors cuts paper, and paper wraps rock, all producing a win for the player selecting the 1st item. A draw results when both players pick the same object.
 
+<div align="center">
+  
 | Player1 | Player2 | Result                | Winner  |
 | :-:     | :-:     | :-:                   | :-:     |
 | Rock    | Rock    | Draw                  |         |
@@ -15,6 +17,7 @@ The game has 1 of 3 possible outcomes, a win, draw, or loss. The win or loss is 
 | Sissors | Rock    | Rock crushes sissors. | Player2 |
 | Sissors | Paper   | Sissors cuts paper.   | Player1 |
 | Sissors | Sissors | Draw                  |         |
+</div>
 
 So the next time you have some time on your hands, but no one to play this game with, consider playing this against the computer on the Cisco IP Phone. You may be pleasantly surprised by the outcome.
 
