@@ -1,8 +1,10 @@
 # Rock Paper Sissors
-
-Here's a favorite game, played with nothing more than two friends using simple hand gesters<sup>1</sup>, representing the objects of the game in the title. What is so fantastic about the game is its simplicity, and the lack materials needed to play. I've seen it played on road trips, summer camp, and on the playground. The challenge was always trying to predict what your opponent was going to use, to block or win that game.
-
-The game has 1 of 3 possible outcomes, a win, draw, or loss. The win or loss is based on which item was selected<sup>2</sup>, as each item has the ability to beat, be beaten, or force a draw based on the following rules, rock crushes sissors, sissors cuts paper, and paper wraps rock, all producing a win for the player selecting the 1st item. A draw results when both players pick the same object.
+<div align="center">
+  
+![Screenshot of Rock Paper Sissors](https://github.com/yeri63/Rock-Paper-Sissors3/blob/master/rock.png)
+</div>
+<p>Here's a favorite game, played with nothing more than two friends using simple hand gesters<sup>1</sup>, representing the objects of the game in the title. What is so fantastic about the game is its simplicity, and the lack materials needed to play. I've seen it played on road trips, summer camp, and on the playground. The challenge was always trying to predict what your opponent was going to use, to block or win that game.</p>
+<p>The game has 1 of 3 possible outcomes, a win, draw, or loss. The win or loss is based on which item was selected<sup>2</sup>, as each item has the ability to beat, be beaten, or force a draw based on the following rules, rock crushes sissors, sissors cuts paper, and paper wraps rock, all producing a win for the player selecting the 1st item. A draw results when both players pick the same object.</p>
 
 <div align="center">
   
